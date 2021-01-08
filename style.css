@@ -10,6 +10,13 @@
 	border: 1px solid white;
 	text-align: center;
 }*/
+/*exo8*/
+/*.container
+{
+	justify-content: center;
+	display: flex;
+	margin-top: 7%;
+}
 .rounded-pill {
   width: 10rem;
   border: none;
@@ -18,7 +25,63 @@
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  /*margin: 4px 2px;*/
   cursor: pointer;
   border-radius: 16px;
 }
+#rowPartageCol
+{
+	max-width: 70%;
+	text-align: center;
+}
+h2
+{
+	margin-top:40%;
+	font-weight: bold;
+	font-family: Arial Black;
+	font-size: 2em;
+	color: white;
+}
+.bg-light
+{
+	border-top-left-radius: 3%;
+	border-bottom-left-radius: 3%;
+}
+.bg-danger
+{
+	border-top-right-radius:3%;
+	border-bottom-right-radius:3%;
+	background-image: linear-gradient(#f53b57,#ef5777);
+}
+
+p
+{
+	margin-top: 1rem;
+	font-family: sans-serif;
+	font-size: 1.18em;
+	color: white;	
+	max-width: 2px;
+
+}
+.btn-danger
+{
+	background-color: #ff3f34;
+	border-radius: 20px;
+}
+*/
+/*exo9*/
+/*.bg-warning, .bg-primary
+{
+	height:40px;
+}
+.bg-success
+{
+	height: 120px;
+}
+.bg-danger
+{
+	height: 80px;
+}
+.bg-secondary
+{
+	height: 40px;
+}*/
