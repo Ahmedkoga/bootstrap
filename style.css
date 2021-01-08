@@ -11,7 +11,7 @@
 	text-align: center;
 }*/
 /*exo8*/
-/*.container
+.container
 {
 	justify-content: center;
 	display: flex;
@@ -67,7 +67,7 @@ p
 	background-color: #ff3f34;
 	border-radius: 20px;
 }
-*/
+
 /*exo9*/
 /*.bg-warning, .bg-primary
 {
